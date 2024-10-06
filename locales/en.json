@@ -1,0 +1,405 @@
+{
+    "appName": "Leak detection",
+    "NAV": {
+        "home": "home",
+        "about": "about",
+        "contact": "contact",
+        "en": "EN",
+        "ar": "Arabic",
+        "aboutUs": "About Our Site",
+        "quickAccess": "Quick Access",
+        "haveQuestions": "Have Questions",
+        "requestService": "Request Service",
+        "phone": "Phone",
+        "email": "Email",
+        "exampleText": "This is an example text that can be replaced in the same space. This text was generated from the Arabic text generator.",
+        "copyright": "All rights reserved - Leak Detection Website",
+        "terms": "Terms & Conditions",
+        "privacy": "Privacy Policy",
+        "services": "Our Services",
+        "contactUs": "Contact Us"
+    },
+    "blog": {
+        "aboutUs": "About Us",
+        "leakDetectionTechnician": "Leak Detection Technician",
+        "insulationTechnician": "Insulation Technician",
+        "leakDetectionTechnicianAlt": "Leak Detection Technician",
+        "insulationTechnicianAlt": "Insulation Technician",
+        "ourServices": "Our Services",
+        "chooseService": "Choose",
+        "service": "the service",
+        "expertsHandle": "that suits your request and leave it to our experts",
+        "selectServiceAndProblem": "Select the service and tell us about your problem, and we will send you the appropriate technician as soon as possible",
+        "noVideoSupport": "Your browser does not support video playback.",
+        "bestExperts": "The best expert technicians at your service",
+        "fastService": "Fast Service",
+        "fastServiceDescription": "We ensure quick access to your service",
+        "exclusiveOffers": "Exclusive Offers",
+        "exclusiveOffersDescription": "Offers are always available, and we strive for the lowest costs",
+        "highRatings": "High Ratings",
+        "highRatingsDescription": "Our services and experts have the best customer satisfaction ratings",
+        "qualifiedTeam": "Qualified Team",
+        "qualifiedTeamDescription": "A trained and qualified team",
+        "learnMore": "Learn More"
+      },
+  "content": {
+    "ourRatings": "Our Ratings",
+    "clientOpinions": "Customer Opinions",
+    "testimonials": {
+      "ahmedAmir": "Ahmed Amir",
+      "mohamedGamal": "Mohamed Gamal",
+      "mohamedAhmed": "Mohamed Ahmed",
+      "ibrahim": "Mr. Ibrahim",
+      "founderCAS": "Founder of CAS",
+      "testimonial1": "I called your water leakage team to fix a leak in my house, and I am very pleased with the service I received. The team was professional and friendly, and they quickly fixed the problem with the highest quality. I highly recommend your services.",
+      "testimonial2": "I highly recommend your team, they solved the issue quickly and efficiently. Thank you!",
+      "testimonial3": "The team is professional and outstanding, I recommend working with them.",
+      "testimonial4": "Great and fast service. I am very grateful for your team."
+    },
+  
+  
+    "ourMission": "Our mission is to provide home services at the lowest cost",
+    "downloadApp": "Download our app for free",
+    "enjoyFastService": "Enjoy quick technician requests and service anytime",
+    "teamSkillExperience": "Team Skill and Experience",
+    "teamSkillExperienceDesc": "Our team has years of experience in the field to ensure high-quality services.",
+    "customerSatisfaction": "Customer Satisfaction",
+    "customerSatisfactionDesc": "We strive to provide excellent service and a positive experience for every customer.",
+    "wideRangeServices": "Wide Range of Services",
+    "wideRangeServicesDesc": "We are capable of handling a variety of issues and meeting customer needs comprehensively.",
+    "fairCost": "Fair Cost",
+    "fairCostDesc": "We believe in offering value for money services. We provide fair and transparent pricing for our customers.",
+    "fixWaterDescription": "We are a team of experts who care about meeting your basic needs in the field of maintenance...",
+    "buttonAlt": "button",
+    "personAlt": "person",
+    "smallPersonAlt": "small person",
+    "smallButtonAlt": "small button",
+    "manAlt": "man",
+    "ratingAlt": "rating",
+    "personName": "Ahmed Mohammed",
+    "jobTitle": "Leak Detection Technician",
+    "welcomeMessage": "Welcome to our website for water leakage and insulation detection services",
+    "videoAlt": "video",
+    "noVideoSupport": "Your browser does not support video playback.",
+    "notificationsAlt": "Notifications",
+    "notifications": "Notifications",
+    "close": "Close",
+    "personIconAlt": "Person Icon",
+    "logoAlt": "Logo",
+    "aboutUs": "About Our Site",
+    "quickAccess": "Quick Access",
+    "haveQuestions": "Have Questions",
+    "requestService": "Request Service",
+    "exampleText": "This is an example text that can be replaced in the same space. This text was generated from the Arabic text generator.",
+    "copyright": "All rights reserved - Leak Detection Website",
+    "phone": "Phone",
+    "email": "Email",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "services": "Our Services",
+    "waterLeakageService": "Water Leakage Service",
+    "repairAndLeak": "Repair and Leak Detection",
+    "expertTeamDescription": "We are a team of experts who care about meeting your maintenance needs. Whether you need repairs or installation of water or sewage pipes, or installation of bathroom and kitchen appliances, we are here to help. We provide our services to customers throughout the city and guarantee the quality of work and reliability in every project we undertake.",
+    "warrantyDuration": "The warranty period may vary depending on the type of service provided.",
+    "materialWarranty": "Warranty on the materials we use in the work we perform.",
+    "highQualityService": "Providing high-quality services and ensuring customer satisfaction.",
+    "twomanAlt": "Image of two women",
+    "naderName": "Nader Kamal",
+    "ahmedName": "Ahmed Galal",
+    "nadaName": "Nada Ali",
+    "leakageExpert": "Leak Detection Technician",
+    "ourExperts": "Our Experts",
+    "bestExperts": "Our Best Experts",
+    "contactUs": "Contact Us"
+},
+
+"buttons": {
+    "cancelOrder": "Cancel Order",
+    "delayOrder": "Delay Order",
+    "confirm": "Confirm",
+    "ok": "Okay",
+    "skip": "Skip"
+  },
+  "modals": {
+    "cancelReason": {
+      "title": "Tell us the reason for canceling the order"
+    },
+    "confirmation": {
+      "title": "Order Canceled"
+    },
+    "delayReason": {
+      "title": "Tell us the reason for delaying the order"
+    },
+    "timeSelection": {
+      "title": "Select the date and time"
+    }
+  },
+  "placeholders": {
+    "enterReason": "Enter the reason here",
+    "enterMessage": "Type something..."
+  },
+  "chatMessages": {
+    "greeting": "Hello, where are you?"
+  },
+  "orderDetails": {
+    "title": "Order Details"
+  },
+  "problemDetails": {
+    "title": "Problem Details",
+    "content": "I have a problem with my water pipes, I can't determine the issue, but there is a noticeable leak."
+  },
+  "paymentMethod": {
+    "title": "Payment Method",
+    "method": "Cash"
+  },
+  "location": {
+    "title": "Location",
+    "address": "Kingdom of Saudi Arabia, Jeddah"
+  },
+
+"login": {
+    "title": "Login",
+    "phone": "Phone Number",
+    "phonePlaceholder": "105685696454",
+    "password": "Password",
+    "passwordPlaceholder": ".........",
+    "forgotPassword": "Forgot your password?",
+    "submit": "Log In",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create a new account"
+  },
+
+  "identityVerification": {
+    "title": "Identity Verification",
+    "placeholder": "Enter verification code",
+    "submit": "Send"
+  },
+
+
+  "passwordReset": {
+    "title": "Change Password",
+    "newPasswordPlaceholder": "Enter new password",
+    "confirmPasswordPlaceholder": "Confirm password",
+    "submit": "Change Password"
+  },
+
+
+  "changePassword": {
+    "title": "Change Password",
+    "modalTitle": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "confirmButton": "Confirm"
+  },
+  "profile": {
+    "name": "Name",
+    "phone": "Phone Number",
+    "save": "Save"
+  },
+
+"address": {
+    "title": "Personal Account",
+    "name": "Ahmed Mahmoud",
+    "orders": "My Orders",
+    "notifications": "Notifications",
+    "logout": "Logout",
+    "confirmLogout": "Do you want to logout?",
+    "deleteAccount": "Delete Account",
+    "confirmDelete": "Do you want to delete the account?",
+    "yes": "Yes",
+    "no": "No",
+    "noDeferredOrders": "There are currently no deferred orders",
+    "noCompletedOrders": "There are currently no completed orders",
+    "noPreviousOrders": "There are currently no previous orders"
+  },
+
+  "profile": {
+    "title": "Personal Account",
+    "name": "Ahmed Mahmoud",
+    "orders": "My Orders",
+    "notifications": "Notifications",
+    "logout": "Logout",
+    "confirmLogout": "Do you want to logout?",
+    "deleteAccount": "Delete Account",
+    "confirmDelete": "Do you want to delete the account?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "signup": {
+    "title": "Create Account",
+    "name": "Name",
+    "phone": "Phone Number",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Log In"
+  },
+
+  "forgot": {
+    "title": "Forgot Password",
+    "placeholder": "Enter your email",
+    "submit": "Send"
+  },
+  "user": {
+    "name": "Ahmed Mohamed",
+    "role": "Water Leak Technician"
+  },
+
+"privacyPolicy": {
+    "title": "Privacy Policy",
+    "importance": "Importance of Terms and Conditions for Our Site",
+    "content": "In this article, you can review common plumbing issues such as water leaks, broken faucets, and blocked toilets. You can provide tips on how to deal with these problems and fix them yourself or call a plumbing technician.",
+    "imageAlt": "Image",
+    "privacyPolicy": "Privacy Policy"
+  },
+
+"formcont": {
+    "contactUs": "Contact Us",
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "Enter your email address",
+    "subject": "Subject",
+    "subjectPlaceholder": "Enter your subject message here",
+    "message": "Your Message",
+    "messagePlaceholder": "Write your message here",
+    "sendNow": "Send Now",
+    "stayInTouch": "Stay in Touch with Us",
+    "address": "Address",
+    "addressDetail": "Kingdom of Saudi Arabia, Jeddah",
+    "email": "Email",
+    "phone": "Phone",
+    "phoneDetail": "+966 1111 22222 3"
+  },
+
+
+  "terms": {
+    "title": "Terms and Conditions",
+    "importanceTitle": "The Importance of Terms and Conditions for Our Website",
+    "importanceDescription": "In this article, you can explore some common plumbing issues such as water leaks, faulty faucets, and clogged toilets. You can provide tips on how to deal with these problems and fix them yourself or call a plumber. In this article, you can explore some common plumbing issues such as water leaks, faulty faucets, and clogged toilets. You can provide tips on how to deal with these problems and fix them yourself or call a plumber."
+  },
+
+"service": {
+   "label": "Service",
+    "name": "Water Leak Detection",
+    "searchPlaceholder": "Search for a company...🔍",
+    "companyName": "Water Leak Detection Company",
+    "tradeRecord": "Trade Record Number: 1011893819",
+    "technicianTitle": "Leak Detection Technician",
+    "detailsTitle": "Service Details",
+    "detailsDescription": "One of the problems that cannot be ignored is water leaks in the location, regardless of the source of the leak, whether it is in bathrooms, kitchens, etc. Al-Alam's pioneers provide you with the perfect services to deal with various water leaks.",
+    "bookingInstructions": "To book the service",
+    "enterData": "Please enter the following details",
+    "problemDetails": "Problem Details",
+    "enterProblemDetails": "Enter your problem details",
+    "address": "Address",
+    "addressDetails": "Saudi Arabia, Jeddah"
+  },
+  "form": {
+    "country": "Country",
+    "countryPlaceholder": "Saudi Arabia",
+    "city": "City",
+    "cityPlaceholder": "Jeddah",
+    "buildingNumber": "Building Number",
+    "buildingNumberPlaceholder": "7",
+    "floorNumber": "Floor Number",
+    "floorNumberPlaceholder": "9",
+    "apartmentNumber": "Apartment Number",
+    "apartmentNumberPlaceholder": "17",
+    "selectDateTime": "Select date and time",
+    "paymentMethod": "Payment Method",
+    "paymentOnline": "Online",
+    "paymentCash": "Cash",
+    "confirmBooking": "Confirm Booking"
+  },
+
+  
+
+"about": {
+    "maintenanceImportance": "The Importance of Maintenance for Home Pipes",
+    "maintenanceDescription": "We are a team of experts providing our expertise to serve you in the plumbing field. Whether you need repairs, pipe installation, or sanitary appliances. We are committed to high quality and using the latest technologies. We offer our exceptional services throughout the city and guarantee the highest quality and reliability in every project we undertake."
+  },
+
+  "plumbing": {
+    "commonIssuesTitle": "Common Plumbing Issues at Home and How to Fix Them",
+    "commonIssuesDescription": "In this article, you can review some common plumbing issues at home such as water leaks, broken faucets, and clogged toilets. You can provide tips on how to deal with these problems and fix them yourself or call a plumber."
+  },
+
+    "TITLES": {
+        "moreArticles": "More Articles",
+        "homeTitle": "Experience the easiest way to Global Study",
+        "whyUs": "Why Choose us",
+        "howItWorks": "How it Works",
+        "desc": "These are the easiest steps you wil find that services your goal",
+        "ourService": "Our Service",
+        "blog": "Blog",
+        "university": "Your dream university right in front of you",
+        "contact": "Contact Us",
+        "about": "About",
+        "links": "Quick links",
+        "subscribtion": "Subscribe to Get the latest Education news !",
+        "partnershipTitle": "Partnership",
+        "partnershipDesc": "Increase your reach and recruit qualified students from around the world and through a platform trusted by more than 300 institutions worldwide",
+        "partnershipFormTitle": "Attract qualified students From around the world",
+        "keepInTouch": "Keep in touch",
+        "address": "Address",
+        "email": "E- mail",
+        "phone": "Phone number",
+        "aboutDesc": "Discover out story and service",
+        "blogDesc": "Latest Education news",
+        "blogHeader": "Don’t miss the opportunity to study in UK!",
+        "timeToStudy": "Time to study aboard",
+        "joinUs": "want to join our team",
+        "cv": "Cv",
+        "dragOrDropFile": "Drop file here or click to upload.",
+        "joinUsDesc": "Fill the form for the job you want",
+        "explore": "Explore more than 20 Countries & Universities",
+        "Thank you for choosing us": "Thank you for choosing us",
+        "applied successfully": "Applied Successfully",
+        "fix water": "fix water"
+    },
+    "BUTTONS": {
+        "apply": "Apply Now",
+        "apply2": "Apply",
+        "viewAll": "View All",
+        "send": "Send"
+    },
+    "FORMS": {
+        "Placeholders": {
+            "fullName": "Full Name",
+            "email": "Email",
+            "subject": "Subject",
+            "phone": "Phone Number",
+            "emailAddress": "Enter your email here",
+            "job": "Choose Job",
+            "website": "Website",
+            "city": "City",
+            "country": "Country",
+            "aboutBusiness": "Tell us about your businesss"
+        },
+        "Validation": {
+            "name": "Name is required",
+            "phone": "Phone number is required",
+            "email": "Email is required",
+            "subject": "Subject is required",
+            "validEmail": "Enter a valid email",
+            "job": "Job is required",
+            "cv": "CV is required",
+            "validPhone": "Enter a valid phone number",
+            "website": "Website is required",
+            "city": "City is required",
+            "country": "Country is required",
+            "business": "Your business is required"
+        }
+    },
+    "FOOTER": {
+        "about": "About us",
+        "contact": "Contact us",
+        "blog": "Blog",
+        "privacy": "Privacy Policy",
+        "terms": "Terms & Conditions",
+        "copyRight": "Copyright",
+        "rightsReserved": "All Rights Served"
+    }
+}

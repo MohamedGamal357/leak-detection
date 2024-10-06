@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+
+::-webkit-scrollbar {
+    @apply w-1 ;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    @apply bg-gray-100 ;
+
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    @apply bg-primary rounded-lg;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    @apply bg-primary;
+}
+
+
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        transform: translate3d(-100%, 0, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes fadeInRight {
+    from {
+        opacity: 0;
+        transform: translate3d(100%, 0, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes fadeInBottom {
+    0% {
+        transform: translate3d(0, 0%, 0);
+    }
+
+    50% {
+        transform: translate3d(0, 5%, 0);
+    }
+
+    100% {
+        transform: translate3d(0, 0%, 0);
+    }
+}
+
+body[dir="ltr"] {
+    font-family: "clash";
+
+    .fadeInLeft {
+        animation-name: fadeInLeft;
+    }
+
+    .fadeInRight {
+        animation-name: fadeInRight;
+    }
+
+    .fadeInBottom {
+        animation-name: fadeInBottom;
+    }
+}
+
+body[dir="rtl"] {
+    font-family: "Cairo";
+
+    .fadeInRight {
+        animation-name: fadeInLeft;
+    }
+
+    .fadeInLeft {
+        animation-name: fadeInRight;
+    }
+
+    .fadeInBottom {
+        animation-name: fadeInBottom;
+    }
+}
+
+.base-btn {
+    @apply min-w-[160px] border border-primary h-[50px] text-primary rounded-3xl font-bold transition-all;
+
+    &:hover {
+        @apply bg-primary text-white
+    }
+}
+
+.reverse-base-btn {
+    @apply min-w-[160px] border border-white h-[50px] text-white rounded-3xl font-bold bg-primary cursor-pointer transition-all;
+
+    &:hover {
+        @apply bg-white text-primary border border-primary;
+    }
+}
+
+.vue-tel-input:focus-within {
+    box-shadow: none !important;
+    border-color: none !important;
+}
